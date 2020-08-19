@@ -16,7 +16,7 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-================================#############################================================
+======================#############################=====================
 
 mkdir PrimeService
 mkdir PrimeService.Tests
@@ -46,4 +46,4 @@ dotnet add PrimeService.Tests/PrimeService.Tests.csproj reference PrimeService/P
 
 dotnet add PrimeService package moq
 
-================================#############################================================
+===============#############################====================
